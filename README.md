@@ -49,8 +49,14 @@ I enjoy turning ideas into working software, learning new technologies, and stea
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 Loading…</h3>
-      <p>This section fills in automatically with your two most recently updated repositories.</p>
+      <h3>📁 <a href="https://github.com/Moazamuddin12/VaultLock-File-Encrypter-and-Decrypter-">VaultLock-File-Encrypter-and-Decrypter-</a></h3>
+      <p>No description added yet.</p>
+      <p><b>Language:</b> Python · ⭐ 0</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/Moazamuddin12/CORTEX--AI-ChatBot">CORTEX--AI-ChatBot</a></h3>
+      <p>CORTEX — A high-performance, full-stack AI web assistant engineered with C++ (httplib &amp; libcurl) backend architecture and a responsive web interface. Features ChatGPT model integration via OpenRouter, multimodal vision processing, LaTeX rendering, and client-side chat storage.</p>
+      <p><b>Language:</b> C++ · ⭐ 0</p>
     </td>
   </tr>
 </table>
