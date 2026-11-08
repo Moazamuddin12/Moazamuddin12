@@ -49,7 +49,7 @@ I enjoy turning ideas into working software, learning new technologies, and stea
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/Moazamuddin12/BlockBox">BlockBox</a></h3>
+      <h3>📁 <a href="https://github.com/Moazamuddin12/BlackBox---Local-First-Activity-Tracker-with-Crash-Recovery">BlackBox---Local-First-Activity-Tracker-with-Crash-Recovery</a></h3>
       <p>A local desktop tracking and system monitoring application with a PySide6 GUI and automated setup scripts.  Option 2 (Feature-Focused)</p>
       <p><b>Language:</b> Batchfile · ⭐ 0</p>
     </td>
