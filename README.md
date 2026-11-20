@@ -49,14 +49,14 @@ I enjoy turning ideas into working software, learning new technologies, and stea
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/Moazamuddin12/StegoVault---Bank">StegoVault---Bank</a></h3>
+      <p>Encrypted steganographic banking vault in 32-bit MASM assembly: each customer’s account is encrypted and hidden inside their own BMP image using LSB steganography. Native Win32 GUI, no database.</p>
+      <p><b>Language:</b> Assembly · ⭐ 0</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📁 <a href="https://github.com/Moazamuddin12/Smart-Schedular-Suite">Smart-Schedular-Suite</a></h3>
       <p>Smart Scheduler Suite is a Qt 6 / C++ desktop application built for the DSA lab project. It has four workspaces, and every scheduling algorithm runs on our own data structures: dynamic arrays, linked lists, stacks, queues, heaps, hash tables, graphs and BSTs, plus our own sorting routines. No STL containers are used for the core logic.</p>
       <p><b>Language:</b> CMake · ⭐ 0</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/Moazamuddin12/BlackBox---Local-First-Activity-Tracker-with-Crash-Recovery">BlackBox---Local-First-Activity-Tracker-with-Crash-Recovery</a></h3>
-      <p>A local desktop tracking and system monitoring application with a PySide6 GUI and automated setup scripts.  Option 2 (Feature-Focused)</p>
-      <p><b>Language:</b> Batchfile · ⭐ 0</p>
     </td>
   </tr>
 </table>
